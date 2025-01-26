@@ -44,6 +44,9 @@ python speed_typing_test.py
 - `time` module
 - `random` module
 
-📧 Contact For feedback, suggestions, or collaboration, feel free to reach out:
-
+## **📧 Contact **
+For feedback, suggestions, or collaboration, feel free to reach out:
 Email: jshamita075@gmail.com
+
+## **Acknowledgments** 🙌
+Thank you for checking this out.
